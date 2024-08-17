@@ -15,7 +15,7 @@ We want to create a simple web server that displays thumbnails of images. It wil
 ---    
 # Add Dependencies
 
-We're going to be pulling together much of what we've already learned, so we have quite a few dependencies:
+Bellows aer all the dependacy for the project that needs to be added manually:
 ```
 cargo add tokio -F full
 ```
