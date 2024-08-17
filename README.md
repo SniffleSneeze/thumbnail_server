@@ -18,14 +18,32 @@ We want to create a simple web server that displays thumbnails of images. It wil
 We're going to be pulling together much of what we've already learned, so we have quite a few dependencies:
 ```
 cargo add tokio -F full
+```
+```
 cargo add serde -F derive
+```
+```
 cargo add axum -F multipart
+```
+```
 cargo add sqlx -F runtime-tokio-native-tls -F sqlite
+```
+```
 cargo add anyhow
+```
+```
 cargo add dotenv
+```
+```
 cargo add futures
+```
+```
 cargo add dotenv
+```
+```
 cargo add tokio_util -F io
+```
+```
 cargo add image
 ```
 ---
