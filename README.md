@@ -1,5 +1,5 @@
 # thumbnail_server
-A simple web server that displays thumbnails of images
+A simple web server that displays thumbnails of images using Rust
 
 
 # The Design Idea
