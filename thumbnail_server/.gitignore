@@ -1,1 +1,4 @@
 .env
+images.db
+images.db-shm
+images.db-wal
